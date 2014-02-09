@@ -4,3 +4,8 @@ Repository for storing Exploits / Vulns and other info relating to rooting andro
 
 put_user_exploit.cpp - CVE-2013-6282 - Exploit for popping a root shell on most 3.0 omap kernels
 in particular the Archos G9S 4.0.28 F/W ( 3.0.21 )
+
+
+
+
+References: https://github.com/orgs/android-rooting-tools
